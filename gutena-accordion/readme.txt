@@ -1,8 +1,8 @@
 === Gutena Accordion - Beautiful FAQ Accordion Block ===
-Contributors: expresstech, infosatech
+Contributors: wpexpertsio
 Tags: accordion, faq, block, accordions, toggles
 Requires at least: 5.8
-Tested up to: 6.2
+Tested up to: 6.9
 Stable tag: 1.0.5
 Requires PHP: 5.6
 License: GPLv3
